@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "pharumo.com.pharumo.depplinkreceiver",
+    "sha256_cert_fingerprints":
+    ["CE:FC:F6:2B:D8:D9:9D:2E:3C:3C:8D:18:C6:D0:FD:7E:E1:9F:F9:AD:A9:9B:42:4A:71:92:CA:A6:3F:A1:40:13"]
+  }
+}]
